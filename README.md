@@ -1,1 +1,5 @@
+[TOC]
+
 # go-patterns
+
+## generic
